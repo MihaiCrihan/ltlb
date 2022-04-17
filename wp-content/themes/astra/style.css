@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
+
+#primary-menu li a {
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 500;
+}
+
+.main-navigation .menu-item a:hover,
+.main-navigation .current_page_item a {
+    color: #6177BB !important;
+}
+
+.home .study-levels .elementor-image-box-img .attachment-full.size-full {
+    min-height: 260px;
+    height: 260px;
+    max-height: 260px;
+    width: 400px !important;
+    min-width: 400px !important;
+    object-fit: cover;
+}
+
+.wpforms-confirmation-container {
+    color: white;
+}
+
+.bottom-image img {
+    object-position: bottom;
+}
